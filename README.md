@@ -37,10 +37,3 @@
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaKesharwani&layout=compact&&count_private=true&theme=vue-dark&hide_border=true" /> -->
 </p>
 
-
-
-
-
-
-# Visits:
-![Visitor Count](https://profile-counter.glitch.me/AryaKesharwani/count.svg)
