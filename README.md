@@ -19,7 +19,7 @@ I'm a full-stack engineer turned founder, currently building **[Startup Name]** 
 
 My happy place is the messy zero-to-one stretch: stripping a problem down to its smallest useful wedge, shipping a working version this week, and letting real users tell me what to build next. Most of my work sits at the intersection of **web, web3, and developer experience**.
 
-Before going full-time on the startup, I won **Smart India Hackathon 2022** and built across [N]+ hackathons — turns out building under a 36-hour deadline is excellent training for shipping a startup.
+Before going full-time on the startup, I racked up **6+ hackathon wins** — including **Smart India Hackathon 2022** — across themes spanning web3, dev tools, and social impact. Turns out building under a 36-hour deadline is excellent training for shipping a startup.
 
 ## What I'm Up To
 
@@ -47,7 +47,7 @@ Before going full-time on the startup, I won **Smart India Hackathon 2022** and 
 
 ## Highlights
 
-- 🏆 **Smart India Hackathon 2022 — Winner**
+- 🏆 **6+ hackathon wins** — including **Smart India Hackathon 2022**
 - 🚀 Currently building **[Startup Name]** full-time
 - 💡 [Other win / shipped product / talk / open-source contribution worth flagging]
 
